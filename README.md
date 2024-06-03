@@ -1,4 +1,4 @@
-# Next Word Predictor
+# Next Token / Word Predictor
 
 This project predicts the next word in a sentence using a pre-trained causal language model from the Hugging Face Transformers library. The script allows users to input a sentence and get predictions for the next word along with the probabilities of the top predictions.
 
