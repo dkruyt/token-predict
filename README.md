@@ -79,6 +79,7 @@ flies : 0.04
 Predicted Next Word: jumps
 
 Predicted Sentence:  The quick brown fox jumps
+```
 
 ## License
 
