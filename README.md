@@ -90,6 +90,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Hugging Face Transformers](https://github.com/huggingface/transformers)
 - [PyTorch](https://pytorch.org/)
 - [Termcolor](https://pypi.org/project/termcolor/)
-
-
-Make sure to customize the repository URL, license, and acknowledgements as needed for your project.
